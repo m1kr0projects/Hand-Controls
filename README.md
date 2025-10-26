@@ -1,2 +1,4 @@
 # Hand-Controls
-control your pc with your hands
+controla o teu pc com as mãos!
+
+O meu projeto para a PAP. **(ainda em planeamento...)**
